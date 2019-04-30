@@ -11,7 +11,7 @@
     font-family: Book Antiqua;
     font-weight: bold;
     color: rgb(255, 255, 255);
-    background: rgb(15, 168, 168);
+    background: rgb(250, 148, 30);
 }
 
 .navbar-nav li{
@@ -51,7 +51,7 @@ h1 {
     font-size: 40px;
     font-family: Book Antiqua;
     font-weight: bold;
-    color: rgb(15, 168, 168);
+    color: rgb(250, 148, 30);
 }
 
 p {
